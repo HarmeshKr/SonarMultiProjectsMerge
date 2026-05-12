@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage version="1">
+  <file path="E:\DotNet10_SonarCloud\SonarLibrary\Class1.cs">
+    <lineToCover lineNumber="8" covered="true" />
+    <lineToCover lineNumber="9" covered="true" />
+    <lineToCover lineNumber="10" covered="true" />
+    <lineToCover lineNumber="12" covered="true" />
+    <lineToCover lineNumber="13" covered="true" branchesToCover="2" coveredBranches="2" />
+    <lineToCover lineNumber="14" covered="true" />
+    <lineToCover lineNumber="15" covered="true" />
+    <lineToCover lineNumber="17" covered="true" />
+    <lineToCover lineNumber="18" covered="true" />
+    <lineToCover lineNumber="20" covered="true" />
+    <lineToCover lineNumber="21" covered="true" />
+    <lineToCover lineNumber="22" covered="true" />
+    <lineToCover lineNumber="24" covered="true" />
+    <lineToCover lineNumber="25" covered="true" branchesToCover="2" coveredBranches="1" />
+    <lineToCover lineNumber="26" covered="false" />
+    <lineToCover lineNumber="27" covered="false" />
+    <lineToCover lineNumber="29" covered="true" />
+    <lineToCover lineNumber="30" covered="true" />
+    <lineToCover lineNumber="32" covered="false" />
+    <lineToCover lineNumber="33" covered="false" />
+    <lineToCover lineNumber="34" covered="false" />
+  </file>
+</coverage>
