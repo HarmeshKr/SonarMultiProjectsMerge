@@ -11,5 +11,16 @@
             Random r=new Random();
             return r.Next(start, end);
         }
+
+        public static long ReverseNumber(int n)
+        {
+            char[] ary=n.ToString().ToCharArray();
+            string s = "";
+            foreach (char c in ary)
+            {
+                s+= c;
+            }
+            return int.Parse(s);
+        }
     }
 }

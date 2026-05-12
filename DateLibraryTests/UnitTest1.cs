@@ -25,5 +25,15 @@ namespace DateLibraryTests
             int result = DateLib.RandomNumber(start,end);
             Assert.IsType<int>(result);
         }
+
+        [Category("DateLib")]
+        [Theory]
+        [InlineData(12345)]
+        [InlineData(9876)]
+        public void ReverseTest(int num)
+        {
+            long result = DateLib.ReverseNumber(num);
+            Assert.Equal(result,long.Parse("54321"));
+        }
     }
 }
